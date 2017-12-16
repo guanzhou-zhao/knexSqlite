@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Simple knex sqlite app for testing their capability",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guanzhou-zhao/knexSqlite.git"
+  },
+  "keywords": [
+    "Knex",
+    "Sqlite"
+  ],
+  "author": "guanzhou-zhao",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/guanzhou-zhao/knexSqlite/issues"
+  },
+  "homepage": "https://github.com/guanzhou-zhao/knexSqlite#readme"
+}
